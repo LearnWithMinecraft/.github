@@ -1,3 +1,5 @@
+![LWM](https://i.imgur.com/uND7YLA.png)
+
 # Who we are
 
 The learn with minecraft team is a team of programmers interested in teaching everyone, from children to adults, in our spare time, we like to program games and things related to minecraft
