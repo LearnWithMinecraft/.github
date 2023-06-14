@@ -1,4 +1,4 @@
-![LWM](https://i.imgur.com/uND7YLA.png)
+![LWM](https://i.imgur.com/yJpob4v.png)
 
 # Who we are
 
