@@ -2,10 +2,6 @@
 
 # Who we are
 
-The learn with minecraft team is a team of programmers interested in teaching everyone, from children to adults, in our spare time, we like to program games and things related to minecraft
+Learn with Minecraft is an innovative project aimed to giving a one-of-a-kind and interesting educational experience using Minecraft, the popular game of construction and adventure. The major goal of this project is to use Minecraft's interactive, visual, and engaging examples to teach a variety of disciplines such as physics, mathematics, history, and programming, among others.
 
-# What we do
-
-Our project uses different Minecraft software to teach math and physics through programming. Students will be able to create their own mods and simulations in the 3D world of Minecraft, making learning fun and interactive. By applying mathematical and physical concepts, students will develop critical thinking and problem solving skills while gaining a deeper understanding of these topics. Our program offers endless possibilities for students to explore while learning valuable skills that can be applied beyond the classroom.
-
-#### Not affiliated with Mojang Studios
+Learn with Minecraft allows students to immerse themselves in a virtual world where they may actively explore and learn. Each lesson is presented in an engaging and exciting manner, utilizing the game's unique characteristics and capabilities to provide practical and enjoyable examples.
