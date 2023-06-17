@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LearnWithMinecraft/Brand/blob/master/lwm-logo.png" alt="Logo" width="200" height="67.5">
+  <img src="https://github.com/LearnWithMinecraft/Brand/blob/master/lwm-logo.png" alt="Logo" width="400" height="120.5">
 </p>
 
 # Who we are
